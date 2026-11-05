@@ -1,0 +1,33 @@
+html, body {
+  height: 100%;
+  margin: 0;
+  overflow: hidden;
+  background: #140914;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+}
+
+#stage {
+  flex: 1 1 auto;
+  min-height: 0;
+  position: relative;
+  width: 100%;
+  height: 100%;
+  background: #140914;
+}
+
+#canvas {
+  display: block;
+  width: 100%;
+  height: 100%;
+  background: #140914;
+  touch-action: none;
+}
+
+img {
+  color: transparent;
+  font-size: 0;
+}

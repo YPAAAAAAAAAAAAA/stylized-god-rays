@@ -1,0 +1,17 @@
+{
+  "id": "stylized-god-rays",
+  "title": { "en": "God Rays", "zh": "上帝光" },
+  "intro": {
+    "en": "Classroom god-rays with dust motes and window shafts. Full-bleed auto-play.",
+    "zh": "教室里的丁达尔光、浮尘与窗边光柱。全屏自动播放。"
+  },
+  "officialFiles": [
+    "vendor/index.html",
+    "vendor/scene.js",
+    "vendor/scene.css"
+  ],
+  "playHtml": "play.html",
+  "aspect": "phone",
+  "githubRepo": "YPAAAAAAAAAAAAA/stylized-god-rays",
+  "protocol": 1
+}
